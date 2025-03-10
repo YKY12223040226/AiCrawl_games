@@ -14,3 +14,8 @@ TapTap游戏数据分析系统
 机器学习：scikit-learn (KMeans/PCA/RandomForest)
 可视化：Matplotlib + Seaborn
 辅助工具：python-dotenv + logging+deepseek
+效果展示
+![QQ截图20250310163233](https://github.com/user-attachments/assets/9a9095e5-1dd7-4739-9a43-801195861cd9)
+![QQ截图20250310163137](https://github.com/user-attachments/assets/e2d051ad-cc4a-4e6b-9274-9fa812715a82)
+![QQ截图20250310163212](https://github.com/user-attachments/assets/2a7f56d5-deca-4a2a-866c-5e3c71d66695)
+![QQ截图20250310163203](https://github.com/user-attachments/assets/0c5f55bb-4cbc-413d-8c37-b1b687fd6e97)
