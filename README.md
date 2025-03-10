@@ -13,4 +13,4 @@ TapTap游戏数据分析系统
 数据处理：Pandas + NumPy
 机器学习：scikit-learn (KMeans/PCA/RandomForest)
 可视化：Matplotlib + Seaborn
-辅助工具：python-dotenv + logging
+辅助工具：python-dotenv + logging+deepseek
